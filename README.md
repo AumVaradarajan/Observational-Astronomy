@@ -6,7 +6,10 @@ calibration frames:
   flats: 50
   biases: 30
   darks: 100
-expected SNR gain by stacking: sqrt(1800) = 42.4x gain in SNR
 Stacking Method: Kappa Sigma Clipping
-camera used: Canon EOS 7D mk 1, Quantum Efficiency = 41%
+expected SNR gain by stacking: sqrt(1800) = 42.4x gain in SNR
+Field of view: 21.9 deg x 12.3 deg
+camera used: Canon EOS 7D mk 1, Quantum Efficiency of sensor = 41%
 Sky Brightness = 17.82 mag/arcsec^2
+pixel scale: 17.2 arcsec/pixel
+

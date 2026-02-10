@@ -11,5 +11,5 @@ ACQUISITION DETAILS:
 6) Stacking Method: Kappa Sigma Clipping
 7) expected SNR gain by stacking: sqrt(460) = 21.4x gain in SNR
 8) Field of view: 17.7 deg x 13.7 deg
-9) Sky Brightness = 17.82 mag/arcsec^2
+9) Sky Brightness: 17.82 mag/arcsec^2
 10) pixel scale: 17.2 arcsec/pixel
